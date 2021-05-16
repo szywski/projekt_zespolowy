@@ -1,7 +1,11 @@
 class Vechicle:
     plateNumber = ""
     color = ""
-    brand = ""
+
 
     def __init__(self):
         pass
+
+    def setVechicle(self, plateNumber, color, brand):
+        self.plateNumber = plateNumber
+        self.color = color
