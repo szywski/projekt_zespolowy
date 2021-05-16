@@ -51,7 +51,7 @@ To do:
 
 ## Contact
 Created by:
-- Szymon Chmielewski
+- Szymon Chmielewski https://github.com/szywski
 - Karol Kozyra  https://github.com/Xerden
 - Krzysztof Rosołowski  https://github.com/RosolowskiK
 
