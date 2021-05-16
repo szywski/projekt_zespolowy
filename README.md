@@ -1,6 +1,6 @@
-# AutoParking
--Projekt zaliczeniowy
--Projekt Zespołowy Systemu Informatyczneo
+# AutoParking - WIP
+- Projekt zaliczeniowy
+- Projekt Zespołowy Systemu Informatycznego
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
@@ -14,11 +14,8 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+We are creating this project to simplify automatization process of parking a car.
+We willing to create simply system that is easy to expand in future.
 
 
 ## Technologies Used
@@ -26,24 +23,19 @@ Python 3.9
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- reading the license plate by camera
+- simple database
+- master-slave
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+`TODO`
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Simulation the system doesn't requaire any specific hardware.
+You have to install Python 3.9 :)
 
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
+`TODO`
 
 ## Project Status
 Project is: _in progress_
@@ -51,15 +43,15 @@ Project is: _in progress_
 ## Room for Improvement
 
 Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
+- AI for camera
 
 To do:
-- Feature to be added 1
-- Feature to be added 2
+- Controller Class - Master
+- New Slave classes
 
 ## Contact
 Created by:
--Szymon Chmielewski
--Karol Kozyra
--Krzysztof Rosołowski
+- Szymon Chmielewski
+- Karol Kozyra  https://github.com/Xerden
+- Krzysztof Rosołowski  https://github.com/RosolowskiK
+
